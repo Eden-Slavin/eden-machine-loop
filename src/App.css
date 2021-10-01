@@ -1,0 +1,16 @@
+.App {
+  /*The father of the project*/
+  text-align: center;
+  height: 100vh;
+  background-image: url("https://images.rawpixel.com/image_png_1000/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjk0MC1teW50LTEwLnBuZw.png?s=6UHUnGSWq_6c6ydyIdBEGJjmmYH90MAB9VxBxOhg-n8");
+}
+
+.My-Header {
+  /*The header of the project*/
+  color: black;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  text-shadow: 2px 0 0 #f74053, -2px 0 0 #f74053, 0 2px 0 #f74053,
+    0 -2px 0 #f74053, 1px 1px #f74053, -1px -1px 0 #f74053, 1px -1px 0 #f74053,
+    -1px 1px 0 #f74053;
+}

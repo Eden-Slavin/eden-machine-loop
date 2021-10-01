@@ -1,0 +1,19 @@
+.Pad-Square {
+  height: 150px;
+  width: 200px;
+  text-align: center;
+  background-color: black;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.Pad-Square:hover {
+  cursor: pointer;
+  box-shadow: 5px 10px #f9dc62;
+}
+
+.Pad-Square-Text {
+  font-weight: bold;
+  color: GhostWhite;
+  font-style: italic;
+}
